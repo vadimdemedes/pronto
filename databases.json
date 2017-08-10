@@ -1,0 +1,42 @@
+[
+	{
+		"name": "MongoDB",
+		"value": "mongodb"
+	},
+	{
+		"name": "Redis",
+		"value": "redis"
+	},
+	{
+		"name": "PostgreSQL",
+		"value": "postgresql"
+	},
+	{
+		"name": "Elasticsearch",
+		"value": "elastic_search"
+	},
+	{
+		"name": "RethinkDB",
+		"value": "rethink"
+	},
+	{
+		"name": "RabbitMQ",
+		"value": "rabbitmq"
+	},
+	{
+		"name": "etcd",
+		"value": "etcd"
+	},
+	{
+		"name": "ScyllaDB",
+		"value": "scylla"
+	},
+	{
+		"name": "MySQL",
+		"value": "mysql"
+	},
+	{
+		"name": "Disque",
+		"value": "disque"
+	}
+]

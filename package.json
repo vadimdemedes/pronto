@@ -1,0 +1,43 @@
+{
+	"name": "pronto",
+	"version": "0.0.0",
+	"description": "The now.sh experience for databases",
+	"license": "MIT",
+	"repository": "vadimdemedes/pronto",
+	"author": {
+		"name": "Vadim Demedes",
+		"email": "vdemedes@gmail.com",
+		"url": "github.com/vadimdemedes"
+	},
+	"bin": "cli.js",
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo"
+	},
+	"files": [
+		"cli.js"
+	],
+	"keywords": [
+		"database",
+		"db",
+		"now",
+		"compose"
+	],
+	"dependencies": {
+		"chalk": "^2.0.1",
+		"configstore": "^3.1.0",
+		"figures": "^2.0.0",
+		"got": "^7.1.0",
+		"inquirer": "^3.2.0",
+		"meow": "^3.7.0",
+		"opn": "^5.1.0",
+		"ora": "^1.3.0",
+		"pify": "^3.0.0",
+		"pokemon": "^1.2.0"
+	},
+	"devDependencies": {
+		"xo": "^0.18.2"
+	}
+}
