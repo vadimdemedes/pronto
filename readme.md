@@ -21,6 +21,22 @@ $ pronto
 ```
 
 
+## Supported databases
+
+Pronto supports all databases provided by [Compose](https://compose.io).
+
+- MongoDB
+- Redis
+- PostgreSQL
+- Elasticsearch
+- RethinkDB
+- RabbitMQ
+- etcd
+- ScyllaDB
+- MySQL
+- Disque
+
+
 ## License
 
 MIT © [Vadim Demedes](https://github.com/vadimdemedes)
