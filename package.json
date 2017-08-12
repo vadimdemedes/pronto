@@ -11,13 +11,14 @@
 	},
 	"bin": "cli.js",
 	"engines": {
-		"node": ">=6"
+		"node": ">=8"
 	},
 	"scripts": {
 		"test": "xo"
 	},
 	"files": [
-		"cli.js"
+		"cli.js",
+		"databases.json"
 	],
 	"keywords": [
 		"database",
